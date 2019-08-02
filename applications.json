@@ -7038,6 +7038,22 @@
             "languages": [
                 "swift"
             ]
+        },
+        {
+            "short_description": "Application and framework to play with the Apple Push Notification service (APNs).",
+            "categories": [
+                "ios--macos"
+            ],
+            "repo_url": "https://github.com/noodlewerk/NWPusher",
+            "title": "NWPusher",
+            "icon_url": "https://raw.githubusercontent.com/noodlewerk/NWPusher/master/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/noodlewerk/NWPusher/master/Docs/osx1.png"
+            ],
+            "official_site": "",
+            "languages": [
+                "objective_c"
+            ]
         }
     ]
 }
